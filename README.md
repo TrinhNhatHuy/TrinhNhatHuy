@@ -21,12 +21,12 @@
 
 ---
 
-## 📂 Notable Projects
+## 📂 Projects
 
-### 🔧 [Unix Shell Simulator](https://github.com/yourusername/unix-shell)
-> A basic command-line shell built in C with support for pipes, redirection, and background processes.
+### 🕹 [TankGame](https://github.com/TrinhNhatHuy/TankGame.git)
+> A 2D game with many features being updated to serve the learning and research purpose.
 
-### 🎬 [Movie Recommendation System](https://github.com/yourusername/movie-recommender)
+### 🎬 [Movie Recommendation System](https://github.com/TrinhNhatHuy/MachineLearning1.git)
 > A hybrid machine learning system using MovieLens dataset to recommend films based on user preferences and similarity models.
 
 ---
