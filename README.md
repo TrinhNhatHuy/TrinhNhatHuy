@@ -40,7 +40,7 @@
 
 📫 **Contact me**:  
 - Email: [hwitn1610@gmail.com](mailto:hwitn1610@gmail.com)  
-- CV: [View PDF]([https://link-to-your-resume.pdf](https://github.com/TrinhNhatHuy/TrinhNhatHuy/blob/main/CV_TrinhNhatHuy.pdf))
+- CV: [View PDF](https://github.com/TrinhNhatHuy/TrinhNhatHuy/blob/main/CV_TrinhNhatHuy.pdf)
 
 
 
